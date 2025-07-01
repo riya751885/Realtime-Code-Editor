@@ -27,3 +27,20 @@ Highlights:
 📱 Responsive Design for Desktop & Tablet
 
 ⏱️ Fast, Lightweight & Optimized Performance
+
+
+
+
+
+
+🔧 Run the Backend:
+
+cd backend  
+npm install  
+npm run dev
+
+💻 Run the Frontend:
+
+cd frontend  
+npm install  
+npm run dev
